@@ -1,2 +1,2 @@
 # ArduinoStuff
-This Repo will soon contain arduino sample codes
+Arduino sample projects
